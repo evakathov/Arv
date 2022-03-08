@@ -23,7 +23,7 @@ public class HealthCareApp {
         for(int i=0; i < hcp.size(); i++){
 
 
-            System.out.println(hcp.get(i).getName() + hcp.get(i).getClass());
+            System.out.println(hcp.get(i).getName() + " " +  hcp.get(i).getClass());
 
 
 
